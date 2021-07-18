@@ -4,13 +4,13 @@
 Looking for a position where I can get a real experience in web-development as a junior front-end developer, and become a professional by improving my programming skills trough practise. Developed soft-skills and wide working experience make me a valuable team member while my responsibility and diligence allow me achieving high goals.
 
 ## Experience
-Apryl 2021 - present time | Kinash Sport | Remote  
+**Apryl 2021 - present time | Kinash Sport | Remote**  
 **Quality department specialist**
 * Detecting of deviations in all business processes
 * Examination of customer advising quality
 * Comminucation with customers on questions of goods and service quality
 
-November 2019 - February 2021 | Glazko glasses workshop | Kaliningrad  
+**November 2019 - February 2021 | Glazko glasses workshop | Kaliningrad**  
 **Head of Kaliningrad branch**
 * Arranging of Kaliningrad branch functioning
 * Supervision of stuff work, stuff recruitment and training
@@ -18,19 +18,19 @@ November 2019 - February 2021 | Glazko glasses workshop | Kaliningrad
 * Affiliate network creation and growth
 * Marketing strategy development and organization of promotion
 
-May 2019 - November 2019 | Military-law centre | Kaliningrad  
+**May 2019 - November 2019 | Military-law centre | Kaliningrad**  
 **Lawyer assistant**
 * Maintaining correspondence
 * Legal documents preparation
 * Representation in the court
 
-March 2018 - December 2018 | Votre-Maison hotel | Kaliningrad  
+**March 2018 - December 2018 | Votre-Maison hotel | Kaliningrad**  
 **Receptionist**
 * Guests registration
 * Reservations processing
 * Organization of troubleproof hotel functioning
 
-August 2015 - November 2017 | Language school EXPERT | Kaliningrad  
+**August 2015 - November 2017 | Language school EXPERT | Kaliningrad**  
 **Manager**
 * Learning process coordination and groups arrangment
 * Attendance of classes and payment control
@@ -56,7 +56,7 @@ August 2015 - November 2017 | Language school EXPERT | Kaliningrad
 * Scratch
 * VS Code
 
-**Other skills**
+**Other skills**  
 CorelDRAW | Adobe Photoshop | Microsoft Office
 
 ## Languages 
