@@ -34,7 +34,8 @@ Looking for a position where I can get a real experience in web-development as a
 **Manager**
 * Learning process coordination and groups arrangment
 * Attendance of classes and payment control
-* Customer advising  
+* Customer advising
+
 **Office manager**
 * Office provision
 * Receiving and distributing incoming calls, maintaining correspondence
