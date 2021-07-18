@@ -1,2 +1,1 @@
-# rsschool-cv
-Contains my CV
+https://ananasovna.github.io/rsschool-cv/cv
