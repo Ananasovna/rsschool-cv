@@ -1,0 +1,81 @@
+.side-background {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  
+  overflow: auto;
+  background: #F2E3BC;
+}
+
+.main-content {
+  position: absolute;
+  right: 300px;
+  left: 300px;
+  
+  flex-direction: column;
+  margin: auto;
+  background: #F3F7FB;
+  box-shadow: 0 0 5px 2px rgb(166, 172, 175);
+}
+
+header {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 200px;
+  background: #414535;
+}
+
+.photo {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  height: 120%;
+}
+
+h1 {
+  position: absolute;
+  top: 20px;
+  left: 270px;
+  font-family: Times New Roman;
+  font-size: 40px;
+  font-weight: 100;
+  color: #FFFFFF;
+}
+
+.contacts {
+  position: absolute;
+  bottom: 15px;
+  left: 270px;
+  padding-left: 17px;
+  line-height: 150%;
+  font-family: Times New Roman, Times, serif;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.personal-info {
+  position: absolute;
+  bottom: -20%;
+  left: 270px;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+section {
+  position: absolute;
+  top: 300px;
+  bottom: 0;
+  padding: 25px;
+  background:rgb(166, 172, 175);
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  background: #C19875;
+  overflow: auto;
+}
