@@ -1,0 +1,118 @@
+.main-background {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  overflow: auto;
+  font-family: Times New Roman, Times, serif;
+  background: #ECD5BB;
+}
+
+.main-content {
+  position: absolute;
+  right: 300px;
+  left: 300px;
+  height: 250%;
+  background: #FFFFFF;
+  box-shadow: 0 0 25px 2px rgb(113, 117, 119);
+}
+
+header {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 200px;
+  color: #FFFFFF;
+  background: #54627B;
+  font-size: 18px;
+}
+
+.photo {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  height: 120%;
+}
+
+h1 {
+  position: absolute;
+  top: 20px;
+  left: 270px;
+  font-size: 40px;
+  font-weight: 100;
+}
+
+.contacts {
+  position: absolute;
+  bottom: 15px;
+  left: 270px;
+  padding-left: 17px;
+  line-height: 150%;
+  
+}
+
+.personal-info {
+  position: absolute;
+  bottom: -20%;
+  left: 270px;
+  margin-bottom: 0;
+  color: #000000;
+}
+
+section {
+  position: absolute;
+  top: 270px;
+  bottom: 0;
+  padding: 0 70px;
+}
+
+h2 {
+  color: #710117;
+  padding-bottom: 5px;
+  border-bottom: 3px solid #710117;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top:0;
+  padding-bottom: 0;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: justify;
+}
+
+ul {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+footer {
+  position: absolute;
+  top: 237%;
+  right: 300px;
+  left: 300px;
+  height: 100px;
+  background: #CFB2B0;
+}
+
+.logo {
+  position: absolute;
+  top: 30px;
+  left: 100px;
+  height: 50px;
+}
+
+.my-github {
+  position: absolute;
+  right: 100px;
+  bottom: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
